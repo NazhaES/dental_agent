@@ -1,0 +1,12 @@
+which doctors are orthodontists?
+
+show available slots for Kevin Anderson
+
+Book patient 1000082 with Kevin Anderson on 7/8/2026 8:00
+
+
+Book patient 1000048 with Kevin Anderson on 7/8/2026 8:00
+
+Reschedule patient 1000082 from 7/8/2026 8:00 to 7/8/2026 9:00 with Kevin Anderson
+
+Cancel appointment for patient 1000082 at 7/8/2026 9:00

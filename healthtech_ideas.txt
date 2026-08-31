@@ -1,0 +1,14 @@
+# Idées HealthTech — Maroc
+
+## 1. IA de détection de pathologies sur radios dentaires
+
+Analyse automatique de radios panoramiques : caries, lésions périapicales,
+pertes osseuses, dents incluses. L'outil entoure les zones suspectes.
+Modèle prouvé aux US (Pearl, Overjet). Aucun acteur marocain.
+Données d'amorçage : DENTEX (CC-BY).
+
+**Abonnement**
+- A — Cabinet : 250-400 DH/mois. ~6 000 dentistes au Maroc.
+      200 cabinets × 300 DH = 720 000 DH/an.
+- B — Brique vendue aux éditeurs (Doctopus, TibiPro, Dentisto) pour intégration.
+- C — À l'usage : ~5 DH par radio analysée.

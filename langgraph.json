@@ -1,0 +1,8 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "dental_agent": "./dental_agent/agent.py:dental_graph",
+    "dental_supervisor": "./dental_agent/workflows/graph.py:dental_graph"
+  },
+  "env": ".env"
+}
